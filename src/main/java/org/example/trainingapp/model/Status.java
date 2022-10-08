@@ -1,8 +1,6 @@
-package org.example.tranningapp.model;
+package org.example.trainingapp.model;
 
 public class Status {
-
-    //Todo
 
     enum taskStatus{
         UNSTARTED, INPROGRESS, DONE

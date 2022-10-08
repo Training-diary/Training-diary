@@ -5,12 +5,12 @@
   <artifactId>TranningApp</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>TranningApp Maven Webapp</name>
+  <name>TrainingApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
-    <spring.version>5.2.22.RELEASE</spring.version>
-  </properties>
 
+    <spring.version>5.3.23</spring.version>
+  </properties>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -51,6 +51,6 @@
 
   </dependencies>
   <build>
-    <finalName>TranningApp</finalName>
+    <finalName>TrainingApp</finalName>
   </build>
 </project>
